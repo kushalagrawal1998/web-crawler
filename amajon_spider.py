@@ -8,8 +8,6 @@ class Myspider(scrapy.Spider):
 
 		"https://www.amazon.in/Honor-Blue-4GB-64GB-Storage/dp/B07R2W2WTS/ref=sr_1_1_sspa?keywords=mobile&qid=1559230457&s=gateway&sr=8-1-spons&psc=1",
 		"https://www.amazon.in/Honor-Lite-Black-64GB-Storage/dp/B07QWLBPJW/ref=sr_1_2_sspa?keywords=mobile&qid=1559230457&s=gateway&sr=8-2-spons&psc=1",
-		"https://www.amazon.in/Redmi-Pro-Black-64GB-Storage/dp/B07DJHXWZZ/ref=sr_1_3?keywords=mobile&qid=1559230457&s=gateway&sr=8-3",
-		"https://www.amazon.in/Redmi-6A-Black-2GBRAM-Storage/dp/B077PW9V3J/ref=sr_1_4?keywords=mobile&qid=1559230457&s=gateway&sr=8-4",
 		"https://www.amazon.in/Redmi-Pro-Black-32GB-Storage/dp/B07DJL15QT/ref=sr_1_5?keywords=mobile&qid=1559230457&s=gateway&sr=8-5",
 
 
